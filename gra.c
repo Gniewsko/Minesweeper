@@ -252,7 +252,7 @@ void to_koniec(int **T, int **O)
                 }
             }
 
-            printf("\nPo twojej wspaniałej rozgrywce top 6 graczy wyglada nastepujaco:\n");
+            printf("\nPo twojej wspanialej rozgrywce top 6 graczy wyglada nastepujaco:\n");
 
             fclose(plikkon);
             plikkon = fopen("listazwyciezcow.txt", "w+");
